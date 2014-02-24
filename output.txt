@@ -1,0 +1,29 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 821C-4BAC
+
+ Directory of C:\Sites\mySites\sample_app
+
+02/18/2014  09:46 AM    <DIR>          .
+02/18/2014  09:46 AM    <DIR>          ..
+02/10/2014  08:18 PM    <DIR>          .bundle
+02/10/2014  08:14 PM               466 .gitignore
+02/18/2014  07:43 AM                 8 .rspec
+02/18/2014  07:43 AM               128 .secret
+02/10/2014  08:14 PM    <DIR>          app
+02/10/2014  08:14 PM    <DIR>          bin
+02/18/2014  09:24 AM    <DIR>          config
+02/10/2014  08:14 PM               154 config.ru
+02/18/2014  08:48 AM    <DIR>          db
+02/10/2014  08:19 PM               567 Gemfile
+02/18/2014  07:42 AM             3,940 Gemfile.lock
+02/10/2014  08:14 PM    <DIR>          lib
+02/18/2014  08:30 AM    <DIR>          log
+02/18/2014  09:51 AM                 0 output.txt
+02/10/2014  08:14 PM    <DIR>          public
+02/10/2014  08:14 PM               254 Rakefile
+02/18/2014  07:45 AM               117 README.mv
+02/18/2014  09:24 AM    <DIR>          spec
+02/18/2014  08:05 AM    <DIR>          tmp
+02/10/2014  08:14 PM    <DIR>          vendor
+               9 File(s)          5,634 bytes
+              13 Dir(s)  192,057,544,704 bytes free
